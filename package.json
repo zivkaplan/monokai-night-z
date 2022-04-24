@@ -1,44 +1,44 @@
 {
-  "name": "vscode-monokai-night-fork",
-  "displayName": "Monokai Night Theme Fork",
-  "description": "Monokai Night Theme Fork. Original theme by Fabio Spampinato",
-  "icon": "",
-  "version": "1.6.0",
-  "license": "MIT",
-  "publisher": "Ziv Kaplan",
-  "contributes": {
-    "themes": [
-      {
-        "label": "Monokai Night Fork",
-        "uiTheme": "vs-dark",
-        "path": "./themes/theme-color-theme.json"
-      }
+    "name": "vscode-ziv-monokai-night",
+    "displayName": "Ziv Monokai Night Theme",
+    "description": "Ziv Monokai Night. A fork of Monokai Night theme by Fabio Spampinato",
+    "icon": "",
+    "version": "1.6.0",
+    "license": "MIT",
+    "publisher": "Ziv Kaplan",
+    "contributes": {
+        "themes": [
+            {
+                "label": "Ziv Monokai Night",
+                "uiTheme": "vs-dark",
+                "path": "./theme-color-theme.json"
+            }
+        ]
+    },
+    "bugs": {
+        "url": "https://github.com/zivkaplan/vscode-monokai-night-fork/issues"
+    },
+    "author": {
+        "name": "Ziv Kaplan",
+        "email": "zivkaplan@gmail.com"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/zivkaplan/vscode-monokai-night-fork.git"
+    },
+    "engines": {
+        "vscode": "^1.21.0"
+    },
+    "keywords": [
+        "theme",
+        "monokai",
+        "night",
+        "dark",
+        "minimalistic",
+        "clean",
+        "vscode"
+    ],
+    "categories": [
+        "Themes"
     ]
-  },
-  "bugs": {
-    "url": "https://github.com/zivkaplan/vscode-monokai-night-fork/issues"
-  },
-  "author": {
-    "name": "Ziv Kaplan",
-    "email": "zivkaplan@gmail.com"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/zivkaplan/vscode-monokai-night-fork.git"
-  },
-  "engines": {
-    "vscode": "^1.21.0"
-  },
-  "keywords": [
-    "theme",
-    "monokai",
-    "night",
-    "dark",
-    "minimalistic",
-    "clean",
-    "vscode"
-  ],
-  "categories": [
-    "Themes"
-  ]
 }
