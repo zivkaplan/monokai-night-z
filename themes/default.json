@@ -259,7 +259,7 @@
     "statusBarItem.hoverBackground": "#ffffff20",
     "statusBarItem.prominentBackground": "#363636",
     "statusBarItem.prominentHoverBackground": "#ffffff40",
-    "tab.activeBackground": "#1f1f1f",
+    "tab.activeBackground": "#131212",
     "tab.activeBorder": "#1f1f1f",
     "tab.activeBorderTop": "#00000000",
     "tab.activeForeground": "#dddddd",
@@ -326,10 +326,7 @@
       }
     },
     {
-      "scope": [
-        "meta.embedded",
-        "source.groovy.embedded"
-      ],
+      "scope": ["meta.embedded", "source.groovy.embedded"],
       "settings": {
         "background": "#272822",
         "foreground": "#F8F8F2"
@@ -361,9 +358,7 @@
     },
     {
       "name": "Reset JavaScript string interpolation expression",
-      "scope": [
-        "meta.template.expression"
-      ],
+      "scope": ["meta.template.expression"],
       "settings": {
         "foreground": "#F8F8F2"
       }

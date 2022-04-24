@@ -1,30 +1,30 @@
 {
-  "name": "vscode-monokai-night",
-  "displayName": "Monokai Night Theme",
-  "description": "A complete, dark and minimalistic Monokai-inspired theme.",
-  "icon": "resources/logo/logo-128x128.png",
+  "name": "vscode-monokai-night-fork",
+  "displayName": "Monokai Night Theme Fork",
+  "description": "Monokai Night Theme Fork. Original theme by Fabio Spampinato",
+  "icon": "",
   "version": "1.6.0",
   "license": "MIT",
-  "publisher": "fabiospampinato",
+  "publisher": "Ziv Kaplan",
   "contributes": {
     "themes": [
       {
-        "label": "Monokai Night",
+        "label": "Monokai Night Fork",
         "uiTheme": "vs-dark",
         "path": "./themes/default.json"
       }
     ]
   },
   "bugs": {
-    "url": "https://github.com/fabiospampinato/vscode-monokai-night/issues"
+    "url": "https://github.com/zivkaplan/vscode-monokai-night-fork/issues"
   },
   "author": {
-    "name": "Fabio Spampinato",
-    "email": "spampinabio@gmail.com"
+    "name": "Ziv Kaplan",
+    "email": "zivkaplan@gmail.com"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/fabiospampinato/vscode-monokai-night.git"
+    "url": "https://github.com/zivkaplan/vscode-monokai-night-fork.git"
   },
   "engines": {
     "vscode": "^1.21.0"
