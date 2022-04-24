@@ -11,7 +11,7 @@
       {
         "label": "Monokai Night Fork",
         "uiTheme": "vs-dark",
-        "path": "./themes/default.json"
+        "path": "./themes/theme-color-theme.json"
       }
     ]
   },
