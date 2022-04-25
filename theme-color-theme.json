@@ -398,7 +398,7 @@
             "scope": "entity.name.type, entity.name.class",
             "settings": {
                 "fontStyle": "",
-                "foreground": "#66D9EF"
+                "foreground": "#e19ffb"
             }
         },
         {
