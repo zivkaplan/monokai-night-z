@@ -398,7 +398,7 @@
             "scope": "entity.name.type, entity.name.class",
             "settings": {
                 "fontStyle": "",
-                "foreground": "#A6E22E"
+                "foreground": "#66D9EF"
             }
         },
         {
@@ -406,7 +406,7 @@
             "scope": "entity.other.inherited-class",
             "settings": {
                 "fontStyle": "italic",
-                "foreground": "#A6E22E"
+                "foreground": "#66D9EF"
             }
         },
         {
