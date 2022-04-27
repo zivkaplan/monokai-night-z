@@ -1,9 +1,9 @@
 {
-    "name": "vscode-ziv-monokai-night",
+    "name": "monokai-night-z",
     "displayName": "Monokai Night Z",
     "description": "Monokai Night Z is a fork of Monokai Night theme by Fabio Spampinato",
     "icon": "",
-    "version": "1.0",
+    "version": "1.0.0",
     "license": "MIT",
     "publisher": "Ziv Kaplan",
     "contributes": {
@@ -16,7 +16,7 @@
         ]
     },
     "bugs": {
-        "url": "https://github.com/zivkaplan/vscode-monokai-night-fork/issues"
+        "url": "https://github.com/zivkaplan/monokai-night-z/issues"
     },
     "author": {
         "name": "Ziv Kaplan",
