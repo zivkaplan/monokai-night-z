@@ -608,6 +608,13 @@
             "settings": {
                 "foreground": "#FD971F"
             }
+        },
+        {
+            "name": "python function-call.generic",
+            "scope": "meta.function-call.generic.python",
+            "settings": {
+                "foreground": "#709ff0"
+            }
         }
     ]
 }
