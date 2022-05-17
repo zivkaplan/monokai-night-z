@@ -1,45 +1,56 @@
 {
-    "name": "monokai-night-z",
-    "displayName": "Monokai Night Z",
-    "description": "Monokai Night Z is a fork of Monokai Night theme by Fabio Spampinato",
-    "icon": "",
-    "version": "1.1.3",
-    "license": "MIT",
-    "publisher": "zivkaplan",
-    "contributes": {
-        "themes": [
-            {
-                "label": "Monokai Night Z",
-                "uiTheme": "vs-dark",
-                "path": "./themes/theme-color-theme.json"
-            }
-        ]
-    },
-    "bugs": {
-        "url": "https://github.com/zivkaplan/monokai-night-z/issues"
-    },
-    "author": {
-        "name": "Ziv Kaplan",
-        "email": "zivkaplan@gmail.com"
-    },
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/zivkaplan/monokai-night-z"
-    },
-    "engines": {
-        "vscode": "^1.21.0"
-    },
-    "keywords": [
-        "theme",
-        "monokai",
-        "night",
-        "Ziv Kaplan",
-        "dark",
-        "minimalistic",
-        "clean",
-        "vscode"
-    ],
-    "categories": [
-        "Themes"
-    ]
+	"name": "monokai-night-z",
+	"displayName": "Monokai Night Z",
+	"description": "Monokai Night Z is a fork of Monokai Night theme by Fabio Spampinato",
+	"icon": "",
+	"version": "1.1.3",
+	"license": "MIT",
+	"publisher": "zivkaplan",
+	"contributes": {
+		"themes": [
+			{
+				"label": "Monokai Night Z Dark",
+				"uiTheme": "vs-dark",
+				"path": "./themes/theme-dark.json"
+			},
+			{
+				"label": "Monokai Night Z Blue",
+				"uiTheme": "vs-blue",
+				"path": "./themes/theme-blue.json"
+			}
+		]
+	},
+	"bugs": {
+		"url": "https://github.com/zivkaplan/monokai-night-z/issues"
+	},
+	"author": {
+		"name": "Ziv Kaplan",
+		"email": "zivkaplan@gmail.com"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/zivkaplan/monokai-night-z"
+	},
+	"engines": {
+		"vscode": "^1.21.0"
+	},
+	"keywords": [
+		"theme",
+		"monokai",
+		"night",
+		"Ziv Kaplan",
+		"dark",
+		"minimalistic",
+		"clean",
+		"vscode"
+	],
+	"categories": [
+		"Themes"
+	],
+	"__metadata": {
+		"id": "062adcab-0aa6-4187-b86b-7ac114c8dfb2",
+		"publisherDisplayName": "Ziv Kaplan",
+		"publisherId": "cf2ac2d2-aa1a-47b3-9216-214b6fd99fad",
+		"isPreReleaseVersion": false
+	}
 }
