@@ -56,7 +56,6 @@
         "titleBar.activeForeground": "#9da5b4",
         "titleBar.inactiveBackground": "#282C34",
         "titleBar.inactiveForeground": "#6B717D",
-        "gitDecoration.modifiedResourceForeground": "#3dbbff",
         "scrollbar.shadow": "#0c0d0f",
         "activityBar.activeBorder": "#0f0f0f",
         "activityBar.inactiveForeground": "#888888",
@@ -149,12 +148,6 @@
         "extensionButton.prominentHoverBackground": "#464646",
         "focusBorder": "#00000000",
         "foreground": "#dddddd",
-        "gitDecoration.addedResourceForeground": "#007acc",
-        "gitDecoration.conflictingResourceForeground": "#fe413f",
-        "gitDecoration.deletedResourceForeground": "#c4265e",
-        "gitDecoration.ignoredResourceForeground": "#777777",
-        "gitDecoration.submoduleResourceForeground": "#2bb3b4",
-        "gitDecoration.untrackedResourceForeground": "#69de3e",
         "input.border": "#363636",
         "input.foreground": "#dddddd",
         "input.placeholderForeground": "#888888",
@@ -294,7 +287,14 @@
         "textPreformat.foreground": "#e6db74",
         "textSeparator.foreground": "#666666",
         "walkThrough.embeddedEditorBackground": "#0f0f0f",
-        "widget.shadow": "#00000088"
+        "widget.shadow": "#00000088",
+        "gitDecoration.addedResourceForeground": "#007acc",
+        "gitDecoration.conflictingResourceForeground": "#fe413f",
+        "gitDecoration.deletedResourceForeground": "#c4265e",
+        "gitDecoration.ignoredResourceForeground": "#777777",
+        "gitDecoration.modifiedResourceForeground": "#d6d629",
+        "gitDecoration.submoduleResourceForeground": "#2bb3b4",
+        "gitDecoration.untrackedResourceForeground": "#69de3e"
     },
     "tokenColors": [
         {
