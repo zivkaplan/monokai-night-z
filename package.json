@@ -3,7 +3,7 @@
     "displayName": "Monokai Night Z",
     "description": "Monokai Night Z is a fork of Monokai Night theme by Fabio Spampinato",
     "icon": "",
-    "version": "1.2.7",
+    "version": "1.2.8",
     "license": "MIT",
     "publisher": "zivkaplan",
     "contributes": {
@@ -48,9 +48,9 @@
         "Themes"
     ],
     "__metadata": {
-        "id": "062adcab-0aa6-4187-b86b-7ac114c8dfb2",
+        "id": "6c0ead3c-ad81-699e-ac2e-4e0e6d42a693",
         "publisherDisplayName": "Ziv Kaplan",
-        "publisherId": "cf2ac2d2-aa1a-47b3-9216-214b6fd99fad",
+        "publisherId": "ZivKaplan",
         "isPreReleaseVersion": false
     }
 }
