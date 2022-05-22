@@ -1,19 +1,22 @@
 # Monokai Night Z
 
 🌑 Dark theme package with vibrant colors for Visual Studio Code.
+
 🍴 Based on [Monoakai Night](https://github.com/fabiospampinato/vscode-monokai-night) by Fabio Spampinato.
+
+🔗 The theme page on Visual Studio [Marketplace](https://marketplace.visualstudio.com/items?itemName=ZivKaplan.monokai-night-z)
 
 ---
 
 ## ⬇️ Install
 
-Launch VS Code Quick Open (Ctrl+P), paste the following command, and press enter.
+Launch VS Code Quick Open (Ctrl+P), paste the following command, and press enter,
 
 ```shell
 ext install ZivKaplan.monokai-night-z
 ```
 
-The theme page on Visual Studio [Marketplace](https://marketplace.visualstudio.com/items?itemName=ZivKaplan.monokai-night-z)
+Or, easily find `Monokai Night Z` in the extension tab inside VS Code.
 
 ---
 
