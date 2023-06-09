@@ -410,6 +410,17 @@
             }
         },
         {
+            "name": "User-defined class names",
+            "scope": [
+                "entity.name.type.class",
+                "entity.name.class"
+            ],
+            "settings": {
+                "fontStyle": "italic",
+                "foreground": "#66D9EF"
+            }
+        },
+        {
             "name": "Function name",
             "scope": "entity.name.function",
             "settings": {
@@ -603,10 +614,18 @@
             }
         },
         {
-            "name": "this.self",
-            "scope": "variable.language",
+            "name": "this, super, self, etc.",
+            "scope": [
+                "variable.language",
+                "keyword.expressions-and-types.swift",
+                "keyword.other.this",
+                "variable.language",
+                "variable.language punctuation.definition.variable.php",
+                "variable.other.readwrite.instance.ruby",
+                "variable.parameter.function.language.special"
+            ],
             "settings": {
-                "foreground": "#FD971F"
+                "foreground": "#a19cbf"
             }
         },
         {
